@@ -1,0 +1,15 @@
+LoanPurposeID	LoanPurpose	LoanPuroseCategory
+L1	credit_card	1
+L2	car	2
+L3	small_business	3
+L4	other	4
+L5	wedding	5
+L6	debt_consolidation	6
+L7	home_improvement	7
+L8	major_purchase	8
+L9	medical	9
+L10	moving	10
+L11	vacation	11
+L12	house	12
+L13	renewable_energy	13
+L14	educational	14
